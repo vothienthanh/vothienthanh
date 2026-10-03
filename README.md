@@ -3,9 +3,10 @@
 Trước khi đăng: bỏ dấu comment ở mục Liên hệ và điền link thật.
 -->
 
-# Thiên Thành (brianV)
+# Thiên Thành (BrianV)
 
 **Co-founder, ZiniSoft Ltd. Co · Giải pháp AI & Tự động hóa cho SME**
+
 **Co-founder, ZiniSoft Ltd. Co · AI & automation solutions for SMEs**
 
 ---
@@ -69,9 +70,4 @@ Sản phẩm chỉ được nhắc khi đúng bài toán. / Products are mention
 ## 📡 Liên hệ / Links
 
 - Email: zinisoft.net@gmail.com
-<!-- Bỏ comment và điền khi có link thật:
-- Website: https://...
-- LinkedIn: https://...
-- Facebook: https://...
-- YouTube: https://...
--->
+- Website: https://zinisoft.net
